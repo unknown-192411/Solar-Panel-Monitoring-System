@@ -3,8 +3,8 @@
 A real-time solar panel monitoring system built with **ESP32**, designed to track voltage output, light intensity, temperature, and humidity — displayed locally on an LCD and uploaded to the **ThingSpeak** cloud dashboard over Wi-Fi.
 
 > Rajiv Gandhi Institute of Technology, Mumbai | 2024–25
-> Mahendra Kumar Prajapati
-> **Guide:** Dr. S.V. Kulkarni
+> **Mahendra Kumar Prajapati**
+> Guide: Dr. S.V. Kulkarni
 
 ---
 
